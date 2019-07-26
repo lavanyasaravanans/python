@@ -3,6 +3,6 @@ def l(l):
     for i in l:
         str=i+str
     return str
-l=input()
+lo=input()
 
-print(l(l))
+print(l(lo))
