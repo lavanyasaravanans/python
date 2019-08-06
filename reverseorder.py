@@ -1,0 +1,5 @@
+rev=input("")
+s=rev.split()
+s.reverse()
+r=" ".join(s)
+print(r)
